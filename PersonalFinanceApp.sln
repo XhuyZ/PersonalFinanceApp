@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.Applicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.API", "PersonalFinanceApp.API\PersonalFinanceApp.API.csproj", "{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.Tests", "PersonalFinanceApp.Tests\PersonalFinanceApp.Tests.csproj", "{C2B68840-E89E-4DA9-80D2-4BC7A3490EC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B68840-E89E-4DA9-80D2-4BC7A3490EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B68840-E89E-4DA9-80D2-4BC7A3490EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B68840-E89E-4DA9-80D2-4BC7A3490EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B68840-E89E-4DA9-80D2-4BC7A3490EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
