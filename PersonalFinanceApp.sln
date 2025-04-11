@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.Domain", "PersonalFinanceApp.Domain\PersonalFinanceApp.Domain.csproj", "{05C1C3D0-B73F-4400-BCCC-DDEA59019A8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.Infrastructure", "PersonalFinanceApp.Infrastructure\PersonalFinanceApp.Infrastructure.csproj", "{0BC28E40-6EF6-4E7A-B51A-FCFA3A9C04B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.Application", "PersonalFinanceApp.Application\PersonalFinanceApp.Application.csproj", "{F1EF8210-6371-4E2D-907B-3F30B340C15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalFinanceApp.API", "PersonalFinanceApp.API\PersonalFinanceApp.API.csproj", "{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{05C1C3D0-B73F-4400-BCCC-DDEA59019A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C1C3D0-B73F-4400-BCCC-DDEA59019A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C1C3D0-B73F-4400-BCCC-DDEA59019A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC28E40-6EF6-4E7A-B51A-FCFA3A9C04B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC28E40-6EF6-4E7A-B51A-FCFA3A9C04B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC28E40-6EF6-4E7A-B51A-FCFA3A9C04B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC28E40-6EF6-4E7A-B51A-FCFA3A9C04B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EF8210-6371-4E2D-907B-3F30B340C15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EF8210-6371-4E2D-907B-3F30B340C15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EF8210-6371-4E2D-907B-3F30B340C15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EF8210-6371-4E2D-907B-3F30B340C15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6125713-2D7F-4E40-AE73-51F4F6DFF9CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
